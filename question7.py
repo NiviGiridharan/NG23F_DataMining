@@ -7,4 +7,5 @@ def question7_2():
     return answer
 
 def question7_3():
-    return answer
+    answer = [(0.0,2.0), (3.0,3.0), (4.0,4.0), (5.0,'infinity')]
+    return answer
